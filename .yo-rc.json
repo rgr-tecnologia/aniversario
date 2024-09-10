@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "aniversario",
+    "libraryId": "b778a6b2-8976-4edf-9d39-0b0475663e3a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "aniversario",
+    "solutionShortDescription": "aniversario description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

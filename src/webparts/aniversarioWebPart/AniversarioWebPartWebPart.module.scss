@@ -1,0 +1,26 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.cardContainer {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.cardDate {
+  width: 10%;
+  padding: .5rem;
+  box-shadow: 0 1.6px 3.6px 0 rgba(0, 0, 0, .13), 0 .3px .9px 0 rgba(0, 0, 0, .11);
+}
+
+.centralize {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
